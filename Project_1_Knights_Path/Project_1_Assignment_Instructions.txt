@@ -1,0 +1,16 @@
+Knight's Tour:
+
+The Knight's Tour is a mathematical problem involving a knight on a chessboard. The knight is placed on the empty board and, moving according to the rules of chess, must visit each square once.
+
+There are several billion solutions to the problem, of which about 122,000,000 have the knight finishing on the same square on which it begins. When this occurs the tour is said to be closed.
+
+Your assignment is to write a program that gives a solution to the Knight's Tour problem recursively. You must hand in a solution in C++ AND Java. The name of the C++ file should be "main.cc" and the name of the Java file should be "Main.java". Output should look similar to:
+
+ 1 34  3 18 49 32 13 16 
+ 4 19 56 33 14 17 50 31 
+57  2 35 48 55 52 15 12 
+20  5 60 53 36 47 30 51 
+41 58 37 46 61 54 11 26 
+ 6 21 42 59 38 27 64 29 
+43 40 23  8 45 62 25 10 
+22  7 44 39 24  9 28 63 
